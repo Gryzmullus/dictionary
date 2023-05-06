@@ -1,0 +1,1 @@
+Here's a Python program that allows the user to add, search, and delete definitions. This program uses a Python dictionary to store definitions. The user can choose whether to add a new definition, find an existing definition, or delete a definition. The program also displays appropriate messages after adding, finding, or deleting a definition.
